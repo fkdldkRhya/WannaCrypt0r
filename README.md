@@ -5,7 +5,18 @@
 
 ### 프로젝트 종류 설명
 ```
-* sdfsfdsdfsdfsdf
+* Decryptor | WannaCry 복호화 도구 (단, @WannaDecryptor@.exe로 복호화를 진행한 뒤에 복호화 되지 않은 파일 복호화 전용)
+* WannaCry_Command_and_Control_Server | WannaCry C&C 서버
+  * server.dbx 파일
+  > Split Text: @WNCRY@
+  > INDEX 0: PORT
+  > INDEX 1: RSA Public Key
+  > INDEX 2: RSA Private Key
+  > INDEX 3: Admin AES Key
+* WanaCrypt0r | WannaCry 파일 드롭퍼
+* taskse | 파일 암호화 모듈
+* tasksche | 서버 접속 실패시 재접속 Handler
+* WannaDecryptor | WannaCry 복호화 도구
 ```
 
 
