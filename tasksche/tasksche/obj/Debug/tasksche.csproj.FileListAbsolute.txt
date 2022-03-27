@@ -1,0 +1,7 @@
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\bin\Debug\tasksche.exe.config
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\bin\Debug\tasksche.exe
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\bin\Debug\tasksche.pdb
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\obj\Debug\tasksche.csprojAssemblyReference.cache
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\obj\Debug\tasksche.csproj.CoreCompileInputs.cache
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\obj\Debug\tasksche.exe
+D:\.Net_DEV_Directory\바이러스\Ransomware\tasksche\tasksche\obj\Debug\tasksche.pdb

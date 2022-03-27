@@ -1,0 +1,15 @@
+﻿<Window x:Class="WannaDecryptor.Check_Payment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WannaDecryptor"
+        mc:Ignorable="d"
+        Title="Check Payment" Height="146.975" Width="467.549" Background="#FFDEDEDE" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Grid>
+        <ProgressBar Name="PB" HorizontalAlignment="Left" Height="24" Margin="19,79,0,0" VerticalAlignment="Top" Width="430"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="374,114,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Button_Click"/>
+        <Label Name="TaskM" Content="Connecting to server..." HorizontalAlignment="Left" Margin="19,32,0,0" VerticalAlignment="Top"/>
+        <Label Content="Checking your payment..." HorizontalAlignment="Left" Margin="19,6,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

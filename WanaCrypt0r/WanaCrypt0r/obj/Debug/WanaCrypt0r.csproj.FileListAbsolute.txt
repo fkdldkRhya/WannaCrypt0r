@@ -1,0 +1,14 @@
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.exe.config
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.exe
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.pdb
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.csprojAssemblyReference.cache
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.csproj.CoreCompileInputs.cache
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.exe
+D:\.Net_DEV_Directory\바이러스\Ransomware\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.pdb
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.exe.config
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.exe
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\bin\Debug\WanaCrypt0r.pdb
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.csprojAssemblyReference.cache
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.csproj.CoreCompileInputs.cache
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.exe
+A:\포트폴리오\WannaCry\소스\WanaCrypt0r\WanaCrypt0r\obj\Debug\WanaCrypt0r.pdb
