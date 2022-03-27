@@ -5,8 +5,8 @@
 
 ### 프로젝트 종류 설명
 ```
-*Decryptor | WannaCry 복호화 도구 (단, @WannaDecryptor@.exe로 복호화를 진행한 뒤에 복호화 되지 않은 파일 복호화 전용)
-*WannaCry_Command_and_Control_Server | WannaCry C&C 서버
+* Decryptor | WannaCry 복호화 도구 (단, @WannaDecryptor@.exe로 복호화를 진행한 뒤에 복호화 되지 않은 파일 복호화 전용)
+* WannaCry_Command_and_Control_Server | WannaCry C&C 서버
   * server.dbx 파일
   > Split Text: @WNCRY@
   > INDEX 0: PORT
